@@ -5,7 +5,7 @@
 👉 My Skills... Python, C, JavaScript, HTML, CSS
 
 👉 Find Me...
-LinkIn - https://www.linkedin.com/in/balagurubaran-k-652304247
+LinkedIn - https://www.linkedin.com/in/balagurubaran-k-652304247
 Hackerrank - https://www.hackerrank.com/balagurubaran201
 
 <!---
