@@ -5,8 +5,8 @@
 👉 My Skills... Python, C, JavaScript, HTML, CSS
 
 👉 Find Me...
-https://www.linkedin.com/in/balagurubaran-k-652304247
-https://www.hackerrank.com/balagurubaran201
+LinkIn - https://www.linkedin.com/in/balagurubaran-k-652304247
+Hackerrank - https://www.hackerrank.com/balagurubaran201
 
 <!---
 Balagurubarann/Balagurubarann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
