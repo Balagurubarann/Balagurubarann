@@ -5,9 +5,11 @@
 👉 My Skills... Python, JavaScript, HTML, CSS
 
 👉 Find Me...
+
 Instagram - @balagurubarann
 
 LinkedIn - https://www.linkedin.com/in/balagurubaran-k-652304247
+
 Hackerrank - https://www.hackerrank.com/balagurubaran201
 
 <!---
