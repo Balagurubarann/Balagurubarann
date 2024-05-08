@@ -1,8 +1,8 @@
-👉 About Me!... Hi, I’m Balagurubaran Kumaresan ✌. Living in Nagapattinam. Now I'm Persuing BCA
+👉 About Me!... Hi, I’m Balagurubaran Kumaresan ✌. Living in Nagapattinam. Now I'm Persuing MCA
 
-👉 My Focus... I'm interested in Web development, So now I learning JavaScript and CSS for Designing . 
+👉 My Focus... I'm interested in Web development . 
 
-👉 My Skills... Python, JavaScript, HTML, CSS
+👉 My Skills... React, NodeJS, Tailwindcss, MongoDB, Python
 
 👉 Find Me...
 
