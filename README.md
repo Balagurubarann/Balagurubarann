@@ -1,4 +1,4 @@
-👉 About Me!... Hi, I’m Balagurubaran Kumaresan ✌. Living in Nagapattinam. Now I'm Persuing MCA.
+👉 About Me!... Hi, I’m Balagurubaran Kumaresan ✌. Living in Vedaranyam.
 
 👉 My Focus... Full Stack Web Development. 
 
