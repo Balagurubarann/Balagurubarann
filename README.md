@@ -1,4 +1,4 @@
-👉 About Me!... Hi, I’m Balagurubaran Kumaresan ✌. A Software Developer (AI First). Enthusiastic about AI Engineering. Living in Vedaranyam.
+👉 About Me!... Hi, I’m Balagurubaran Kumaresan ✌. A Software Developer (Specialized in MERN stack). Enthusiastic about AI Engineering. Living in Vedaranyam.
 
 👉 Experience... Interned in TATA Technologies Limited, Bangalore as a Full Stack Developer
 
